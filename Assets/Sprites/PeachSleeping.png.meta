@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: 60ea5e94c95e7e5499ac77cd4350e124
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 652109512821908469
+    second: PeachSleeping_0
+  - first:
+      213: -8684379227255958061
+    second: PeachSleeping_1
+  - first:
+      213: -4307318471446458119
+    second: PeachSleeping_2
+  - first:
+      213: -1167131130064325023
+    second: PeachSleeping_3
+  - first:
+      213: -6280480730089869791
+    second: PeachSleeping_4
+  - first:
+      213: 5672556076265991140
+    second: PeachSleeping_5
+  - first:
+      213: -8139725314821586282
+    second: PeachSleeping_6
+  - first:
+      213: -62683609859472212
+    second: PeachSleeping_7
+  - first:
+      213: 6148137185326089935
+    second: PeachSleeping_8
+  - first:
+      213: 3904221290784239583
+    second: PeachSleeping_9
+  - first:
+      213: 4071202920312378036
+    second: PeachSleeping_10
+  - first:
+      213: -5747656540071979525
+    second: PeachSleeping_11
+  - first:
+      213: -350800400299606802
+    second: PeachSleeping_12
+  - first:
+      213: 7625369658455332945
+    second: PeachSleeping_13
+  - first:
+      213: 6063394817131830585
+    second: PeachSleeping_14
+  - first:
+      213: -6235027293146262063
+    second: PeachSleeping_15
+  - first:
+      213: 6324703660455504700
+    second: PeachSleeping_16
+  - first:
+      213: 1802006433709121123
+    second: PeachSleeping_17
+  - first:
+      213: -3749726361761102165
+    second: PeachSleeping_18
+  - first:
+      213: -3142551625942567521
+    second: PeachSleeping_19
+  - first:
+      213: -4143768942264439070
+    second: PeachSleeping_20
+  - first:
+      213: 3825689851362787228
+    second: PeachSleeping_21
+  - first:
+      213: -6810406501700313512
+    second: PeachSleeping_22
+  - first:
+      213: 8117039888578009072
+    second: PeachSleeping_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PeachSleeping_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 107
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12eae482d0047d8a0800000000000000
+      internalID: -6280480730089869791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachSleeping_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 107
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb615662b7f8be40800000000000000
+      internalID: 5672556076265991140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachSleeping_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 107
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6920ec8c3f2e90f80800000000000000
+      internalID: -8139725314821586282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachSleeping_7
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 107
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca44615c69d412ff0800000000000000
+      internalID: -62683609859472212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachSleeping_8
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 107
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc64bb12232925550800000000000000
+      internalID: 6148137185326089935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachSleeping_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 65
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf26b914949e2630800000000000000
+      internalID: 3904221290784239583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachSleeping_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 65
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b290c16c71df7830800000000000000
+      internalID: 4071202920312378036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachSleeping_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 65
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf51f0644d83c30b0800000000000000
+      internalID: -5747656540071979525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachSleeping_12
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 65
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecb31105e4b12bf0800000000000000
+      internalID: -350800400299606802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachSleeping_13
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 65
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158954dad41c2d960800000000000000
+      internalID: 7625369658455332945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachSleeping_14
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 65
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d56100671852450800000000000000
+      internalID: 6063394817131830585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachSleeping_15
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 65
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5d62326bbb879a0800000000000000
+      internalID: -6235027293146262063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachSleeping_16
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 65
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b201f287cd5c750800000000000000
+      internalID: 6324703660455504700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachSleeping_17
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 65
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e5334dd43020910800000000000000
+      internalID: 1802006433709121123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachSleeping_0
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 107
+        width: 58
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f75e52d5c485a070800000000000000
+      internalID: 8117039888578009072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
